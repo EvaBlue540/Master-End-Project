@@ -1,0 +1,23 @@
+
+cff-version: 1.2.0
+title: ' Master-End-Project'
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: Eva
+    family-names: Groenewoud
+    affiliation: TU Delft
+    email: e.groenewoud@student.tudelft.nl
+repository-code: 'https://github.com/EvaBlue540/Master-End-Project'
+abstract: >-
+  Automated workflow for off-gas and balance data
+  processing. With data-driven prediction on PHA
+  performance. 
+keywords:
+  - PHA
+  - Bioplastic
+license: MIT
+version: 0.1.0
+date-released: '2026-05-21'
